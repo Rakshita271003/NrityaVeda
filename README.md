@@ -32,3 +32,5 @@ More styles can be added easily as the project expands.
 - **VS Code** – Development environment
 - **Git** & **GitHub** – Version control
 
+## 🎯 Purpose
+This is a personal passion project aimed at promoting cultural appreciation and building creative front-end development skills.
